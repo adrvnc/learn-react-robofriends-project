@@ -7,8 +7,7 @@ First React project from the Zero To Mastery Course. Users can search and filter
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
+  - [What I've learned](#what-i've-learned)
 ## Overview
 ### Links
 
@@ -21,7 +20,7 @@ First React project from the Zero To Mastery Course. Users can search and filter
 - Tachyons  
 - CSS 
 - JSONPlaceholder fake API 
-### What I learned 
+### What I've learned 
 
 - React is used to build user interfaces using states, components, and props, among other things. Different components serve a unique purpose. They are inside different files but work together to make a project interactive. This approach prevents having one big file for everything, which can be hard to keep track of. 
 - To improve upon this project, I've made a small change by implementing a loading screen animation using [this CodePen](https://codepen.io/Freeps2/pen/vYzVKNw). 
