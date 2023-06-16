@@ -1,7 +1,6 @@
-import { render } from "@testing-library/react";
 import React, { Component } from "react"; 
 
-class ErrorBoundry extends Component {
+class ErrorBoundary extends Component {
     constructor(props) {
         super(props);
         this.state = {
@@ -21,4 +20,4 @@ class ErrorBoundry extends Component {
     }
 }
 
-export default ErrorBoundry; 
+export default ErrorBoundary; 
