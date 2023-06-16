@@ -79,3 +79,8 @@ h1 {
     transform-origin: top left;
     animation-delay: 1s;
   }
+
+  .card {
+    width: 350px;
+    height: 400px;
+  }

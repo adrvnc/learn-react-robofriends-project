@@ -8,6 +8,10 @@ const SearchBox = ({ searchChange }) => {
             type='search' 
             placeholder='Search Robots...' 
             onChange={searchChange}
+            style={{
+                width: "100%",
+                maxWidth: "300px" // Set a maximum width if desired
+            }}
             />
         </div>
     );
