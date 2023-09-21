@@ -30,7 +30,7 @@ A ReactJS project that fetches user data from an API and displays it in an inter
 - [RoboHash](https://robohash.org/)
   
 ### How To Use 
-To find users, click the search box and type any letters. 
+To find listed users, click the search box and type any letters. The application will filter through the names of each user, making it easy to find who you're looking for. 
 
 ## Useful Resources 
 [React Documentation](https://react.dev/learn) - A comprehensive guide on React concepts you will encounter. 
