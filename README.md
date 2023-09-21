@@ -1,6 +1,6 @@
 # RoboFriends React Project
 
-A ReactJS project that fetches user data from an API and displays it in an interactive and responsive UI.
+A ReactJS project that fetches user data from an API and displays it in an interactive and responsive User Interface (UI).
 
 
 
