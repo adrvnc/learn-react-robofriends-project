@@ -10,7 +10,7 @@ A ReactJS project that fetches user data from an API and displays it in an inter
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I've learned](#what-i-learned)
+  - [How To Use](#how-to-use)
   - [Useful Resources](#useful-resources)
 ## Overview
 ### Screenshot
@@ -28,10 +28,10 @@ A ReactJS project that fetches user data from an API and displays it in an inter
 - CSS 
 - JSONPlaceholder Fake API
 - [RoboHash](https://robohash.org/)
+  
+### How To Use 
+To find users, click the search box and type any letters. 
 
-### What I've learned 
-
-In the Zero To Mastery RoboFriends project, I learned about React components and how they play a vital role in creating web applications. Components in React are like building blocks that you can use to construct different parts of your website. I discovered that by breaking down the user interface into smaller components, it became easier to manage and organize the code. Each component can be designed to handle a specific part of the application, such as a navigation bar or a search box. Components can be reused throught a project, which could save time and effort while ensuring consistency across the website. Ultimately, understanding how to use React components effectively helped me build a well-structured and interactive web application.
 ## Useful Resources 
 [React Documentation](https://react.dev/learn) - A comprehensive guide on React concepts you will encounter. 
 
